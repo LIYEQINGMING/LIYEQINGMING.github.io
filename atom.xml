@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LIYEQINGMING&#39;Blog</title>
+  
+  <subtitle>From a gentle man</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://LIYEQINGMING.com/"/>
+  <updated>2019-10-29T14:05:33.288Z</updated>
+  <id>http://LIYEQINGMING.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://LIYEQINGMING.com/2019/10/29/article-title-1/"/>
+    <id>http://LIYEQINGMING.com/2019/10/29/article-title-1/</id>
+    <published>2019-10-29T14:05:33.000Z</published>
+    <updated>2019-10-29T14:05:33.288Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Origin</title>
+    <link href="http://LIYEQINGMING.com/2019/10/29/article-title/"/>
+    <id>http://LIYEQINGMING.com/2019/10/29/article-title/</id>
+    <published>2019-10-29T14:03:54.000Z</published>
+    <updated>2019-10-29T14:28:53.645Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://LIYEQINGMING.com/2019/10/28/hello-world/"/>
+    <id>http://LIYEQINGMING.com/2019/10/28/hello-world/</id>
+    <published>2019-10-28T11:49:06.114Z</published>
+    <updated>2019-10-28T11:49:06.114Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
